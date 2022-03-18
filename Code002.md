@@ -40,3 +40,6 @@
 -   L7 응용계층 : 응용 프로세스와 직접 관계하여 응용 서비스를 수행한다(인터페이스 제공 시스템)
 
 			표준 애플리케이션 프로토콜(HTTP, FTP, TELNET 등)과 개발자가 만든 프로토콜들이 위치
+			
+![image](https://user-images.githubusercontent.com/73813647/158950304-4a668e54-50cd-4a09-964d-1e73c092238c.png)
+
