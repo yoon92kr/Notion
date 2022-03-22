@@ -2,11 +2,9 @@
 
 네트워크 망 관리를 위한 NMS(Network Management System), SMS(System Management System) 사용 시 필요한 프로토콜로, 즉 TCP/IP 프로토콜을 사용하는 네트워크에 있는 단말관리를 위한 프로토콜이다. MIB / OID 값을 가지고 정보를 수집한다.
 
-	*	MIB (Management Information Base) : SNMP에 의해 관리될 수 있는 객체들의 모임, 
-			즉 정보값을 문자로 표현한 것
+	*	MIB (Management Information Base) : OID가 갖고 있는 값 (VALUE)
     
-	*	OID (Object Identifier) : 특정한 정보 자원을 모아놓은 집합체, 
-			즉 정보값을 숫자로 표현한 것
+	*	OID (Object Identifier) : SNMP에 의해 관리될 수 있는 단말의 규격 정보를 담고있는 KEY (숫자 형식으로 설정 )
     
 
 **특징** : 정보 지향적이며 특정 정보 변수에 대한 단순한 요청/응답 메카니즘을 갖고있다 (Get/Set/Trap)
