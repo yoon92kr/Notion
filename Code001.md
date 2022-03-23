@@ -5,3 +5,5 @@
 여기서 Relay서버가 다리역할을 하여, 클라이언트의 NAT 정보를 확인 후 클라이언트간의 통신이 가능한 터널을 생성해준다.
 
 ![image](https://user-images.githubusercontent.com/73813647/158103862-0a8be5e7-2d37-4aa4-b6b9-0e35d192eb18.png)
+
+![image](https://user-images.githubusercontent.com/73813647/159721592-d75506e9-06fa-45b5-98b2-6b9926489cf5.png)
